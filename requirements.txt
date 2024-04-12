@@ -1,0 +1,2 @@
+flet==0.22.0
+pyppeteer==2.0.0
